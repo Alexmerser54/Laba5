@@ -1,0 +1,6 @@
+D:\MyLabs\Laba_5.9\Laba7_18.12\bin\Debug\Laba7_18.12.exe.config
+D:\MyLabs\Laba_5.9\Laba7_18.12\bin\Debug\Laba7_18.12.exe
+D:\MyLabs\Laba_5.9\Laba7_18.12\bin\Debug\Laba7_18.12.pdb
+D:\MyLabs\Laba_5.9\Laba7_18.12\obj\Debug\Laba7_18.12.csproj.CoreCompileInputs.cache
+D:\MyLabs\Laba_5.9\Laba7_18.12\obj\Debug\Laba7_18.12.exe
+D:\MyLabs\Laba_5.9\Laba7_18.12\obj\Debug\Laba7_18.12.pdb

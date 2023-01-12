@@ -1,0 +1,7 @@
+D:\MyLabs\Laba_5.9\Laba7_16.4b\bin\Debug\Laba7_16.4b.exe.config
+D:\MyLabs\Laba_5.9\Laba7_16.4b\bin\Debug\Laba7_16.4b.exe
+D:\MyLabs\Laba_5.9\Laba7_16.4b\bin\Debug\Laba7_16.4b.pdb
+D:\MyLabs\Laba_5.9\Laba7_16.4b\obj\Debug\Laba7_16.4b.csproj.CoreCompileInputs.cache
+D:\MyLabs\Laba_5.9\Laba7_16.4b\obj\Debug\Laba7_16.4b.exe
+D:\MyLabs\Laba_5.9\Laba7_16.4b\obj\Debug\Laba7_16.4b.pdb
+D:\MyLabs\Laba_5.9\Laba7_16.4b\obj\Debug\Laba7_16.4b.csprojAssemblyReference.cache
