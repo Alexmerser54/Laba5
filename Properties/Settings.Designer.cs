@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Laba5.Properties
+namespace Laba6.Properties
 {
 
 
